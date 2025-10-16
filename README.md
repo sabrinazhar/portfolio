@@ -7,7 +7,7 @@ Welcome! This portfolio brings together my academic work and personal projects, 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🧬 Skin Disease Classification](https://github.com/sabrinazhar/skin-disease-classification) | Built a CNN using MobileNetV2 & ResNet50 to classify skin diseases with attention modules. | Python, TensorFlow, Keras |
-| [🤖 Robotic Motion Planning](https://github.com/sabrinazhar/robotic-motion-planning) | Combined ML and optimization techniques for motion control and 3D trajectory reconstruction. | Python, NumPy, SciPy, Matplotlib |
+| [🤖 Robotic Motion Planning](https://github.com/sabrinazhar/robotic-motion-planning) <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/EdpqHtGl6IdArVQexWus4LcBXc-2V1IRswDCMarnAYlSBA?e=Oc5grl) | Combined ML and optimization techniques for motion control and 3D trajectory reconstruction. | Python, NumPy, SciPy, Matplotlib, Jupyter Notebook |
 
 ---
 
@@ -16,6 +16,7 @@ Welcome! This portfolio brings together my academic work and personal projects, 
 |----------|--------------|-------------|
 | [🌍 Professor Rating System](https://github.com/sabrinazhar/professor-rating-system) | Full-stack Django + REST API platform for students to rate professors. | Python, Django, REST API |
 | [📁 Multi-Threaded File Transfer System](https://github.com/sabrinazhar/multithreaded-file-transfer) | Java-based client-server system for concurrent file transfers using multi-threading. | Java, Socket Programming |
+| [🔎 Web Crawler and Search Engine System](https://github.com/sabrinazhar/web-crawler-search-engine) <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/EaCo_3yqtTtJpehgiQi7FcgBW_TFLeUTI1-SGvlhU2ercw?e=V5nyhm) | CLI-based modular Python application that crawls web pages, indexes text data, and performs keyword-based search using an inverted index. | Python, BeautifulSoup, Requests, JSON |
 
 ---
 
