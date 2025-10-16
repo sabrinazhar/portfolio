@@ -1,7 +1,7 @@
 # 💻 Sabrina's Portfolio
 Welcome! This portfolio brings together my academic work and personal projects, showcasing problems I've solved, skills I've built, and ideas I've brought to life.
 
-🔒 Some repositories are kept private to comply with university academic integrity policies. Access can be granted upon request for review or recruitment purposes.
+🔒 Some repositories are kept private to comply with university academic integrity policies. For these projects, I've provided detailed summary documents that outline the work done as reference. Full repository access can be granted upon request for review or recruitment purposes.
 
 ## 🧠 Machine Learning & AI
 | Project | Description | Tech Stack |
