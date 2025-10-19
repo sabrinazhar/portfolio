@@ -17,6 +17,7 @@ Welcome! This portfolio brings together my academic work and personal projects, 
 | [🌍 Professor Rating System](https://github.com/sabrinazhar/professor-rating-system) | Full-stack Django + REST API platform for students to rate professors. | Python, Django, REST API |
 | [📁 Multi-Threaded File Transfer System](https://github.com/sabrinazhar/multithreaded-file-transfer) | Java-based client-server system for concurrent file transfers using multi-threading. | Java, Socket Programming |
 | [🔎 Web Crawler and Search Engine System](https://github.com/sabrinazhar/web-crawler-search-engine) <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/EaCo_3yqtTtJpehgiQi7FcgBW_TFLeUTI1-SGvlhU2ercw?e=V5nyhm) | CLI-based modular Python application that crawls web pages, indexes text data, and performs keyword-based search using an inverted index. | Python, BeautifulSoup, Requests, JSON |
+| [🌐 Sworld](https://github.com/sabrinazhar/sworld) | Flask-based social networking web application featuring user authentication, posts, likes, and follower interactions with an SQLite database. | Python, Flask, SQLAlchemy, Flask-WTF, HTML/CSS, Jinja2 |
 
 ---
 
