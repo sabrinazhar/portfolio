@@ -34,6 +34,7 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🎵 Music Store Data Analysis](https://github.com/sabrinazhar/music-store-sql-analysis) | SQL-based project analyzing customer data, sales trends, and performance metrics. | SQL, MySQL |
+| [📚 Pupil Absence Data Analysis](https://github.com/sabrinazhar/pupil-absence) | Data analysis & visualisation of UK pupil absence trends using Python, with cleaned multi-format datasets and high-quality charts. | Python, Pandas, Matplotlib |
 
 ---
 
