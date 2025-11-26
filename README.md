@@ -26,7 +26,7 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 | [🔎 Web Crawler and Search Engine System](https://github.com/sabrinazhar/web-crawler-search-engine) <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/EaCo_3yqtTtJpehgiQi7FcgBW_TFLeUTI1-SGvlhU2ercw?e=V5nyhm) | CLI-based modular Python application that crawls web pages, indexes text data, and performs keyword-based search using an inverted index. | Python, BeautifulSoup, Requests, JSON |
 | [🌐 Sworld](https://github.com/sabrinazhar/sworld) | Flask-based social networking web application featuring user authentication, posts, likes, and follower interactions with an SQLite database. | Python, Flask, SQLAlchemy, Flask-WTF, HTML/CSS, Jinja2 |
 | [💰 Personal Budget Tracker](https://github.com/sabrinazhar/budget-tracker) | Full-stack Flask web app with CRUD features for income, expenses, and savings goals using SQLAlchemy & Jinja templates. | Python, Flask, SQLAlchemy, SQLite, HTML/CSS |
-| [🌐 NCiTy Responsive Website](https://github.com/sabrinazhar/ncity-website) | Multi-page responsive website built with HTML5/CSS3 featuring 5 interconnected K-Pop group pages with mobile-friendly UI. | HTML, CSS, Responsive Design |
+| [🌐 NCiTy Responsive Website](https://github.com/sabrinazhar/ncity-website) | Multi-page interactive website, featuring unit pages, a bias poll with localStorage, and a geolocation-based distance calculator. | HTML, CSS, JavaScript, Web APIs |
 
 ---
 
