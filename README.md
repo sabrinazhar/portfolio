@@ -1,7 +1,14 @@
 # 💻 Sabrina's Portfolio
-Welcome! This portfolio brings together my academic work and personal projects, showcasing problems I've solved, skills I've built, and ideas I've brought to life.
+Welcome! This portfolio showcases my academic and personal projects in software engineering, AI, and data science which highlights problems I’ve solved, skills I’ve developed, and ideas I’ve brought to life.
 
 🔒 Some repositories are kept private to comply with university academic integrity policies. For these projects, I've provided detailed summary documents that outline the work done as reference. Full repository access can be granted upon request for review or recruitment purposes.
+
+📊 **Portfolio at a Glance**
+- 10+ academic and personal projects.  
+- 4 major programming languages (Python, Java, JavaScript, SQL).
+- Experience across ML, web development, and data analysis.
+
+---
 
 ## 🧠 Machine Learning & AI
 | Project | Description | Tech Stack |
@@ -18,6 +25,7 @@ Welcome! This portfolio brings together my academic work and personal projects, 
 | [📁 Multi-Threaded File Transfer System](https://github.com/sabrinazhar/multithreaded-file-transfer) | Java-based client-server system for concurrent file transfers using multi-threading. | Java, Socket Programming |
 | [🔎 Web Crawler and Search Engine System](https://github.com/sabrinazhar/web-crawler-search-engine) <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/EaCo_3yqtTtJpehgiQi7FcgBW_TFLeUTI1-SGvlhU2ercw?e=V5nyhm) | CLI-based modular Python application that crawls web pages, indexes text data, and performs keyword-based search using an inverted index. | Python, BeautifulSoup, Requests, JSON |
 | [🌐 Sworld](https://github.com/sabrinazhar/sworld) | Flask-based social networking web application featuring user authentication, posts, likes, and follower interactions with an SQLite database. | Python, Flask, SQLAlchemy, Flask-WTF, HTML/CSS, Jinja2 |
+| [💰 Personal Budget Tracker](https://github.com/sabrinazhar/budget-tracker) | Full-stack Flask web app with CRUD features for income, expenses, and savings goals using SQLAlchemy & Jinja templates. | Python, Flask, SQLAlchemy, SQLite, HTML/CSS |
 
 ---
 
