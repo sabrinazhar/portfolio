@@ -54,6 +54,13 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 
 ---
 
+## 🔬 Scientific Computing & Simulation
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [🐺 Predator–Prey Population Simulation](https://github.com/sabrinazhar/predator-prey)  <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/IQBX4-pQCMEPS7m0OivEGvArAZOPPvHRcnfyxPZlgdvw2Gw?e=zb3iAZ) | Numerical ODE solver framework (Heun, Midpoint, RK4) for modelling predator–prey dynamics with stability & convergence analysis. | Python, NumPy, Matplotlib |
+
+---
+
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sabrinazhar)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sabrinazhar)
