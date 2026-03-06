@@ -42,7 +42,7 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 
 ---
 
-## 🧩 Object-Oriented Programming
+## 🧩 Object-Oriented Systems
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🎲 Baccarat Game Simulation](https://github.com/sabrinazhar/baccarat-game) | Built a console-based card game using OOP concepts and probability logic. | Java |
@@ -60,6 +60,7 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 ## 🔬 Scientific Computing & Simulation
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| [🚦 Vehicle Traffic Grid Simulation](https://github.com/sabrinazhar/traffic-grid-simulation) <br>📄[Project Summary (PDF)](link) | Java-based grid traffic simulator modelling vehicle movement, pathfinding, and intersection priority strategies with GUI visualisation and UML-based system design. | Java, Swing, JUnit, PlantUML |
 | [🐺 Predator–Prey Population Simulation](https://github.com/sabrinazhar/predator-prey)  <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/IQBX4-pQCMEPS7m0OivEGvArAZOPPvHRcnfyxPZlgdvw2Gw?e=zb3iAZ) | Numerical ODE solver framework (Heun, Midpoint, RK4) for modelling predator–prey dynamics with stability & convergence analysis. | Python, NumPy, Matplotlib |
 
 ---
