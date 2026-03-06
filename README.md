@@ -15,6 +15,7 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 |----------|--------------|-------------|
 | [🧬 Skin Disease Classification](https://github.com/sabrinazhar/skin-disease-classification) | Built a CNN using MobileNetV2 & ResNet50 to classify skin diseases with attention modules. | Python, TensorFlow, Keras |
 | [🤖 Robotic Motion Planning](https://github.com/sabrinazhar/robotic-motion-planning) <br>📄[Project Summary (PDF)](https://1drv.ms/b/c/6d029b9dc5e627eb/EdpqHtGl6IdArVQexWus4LcBXc-2V1IRswDCMarnAYlSBA?e=Oc5grl) | Combined ML and optimization techniques for motion control and 3D trajectory reconstruction. | Python, NumPy, SciPy, Matplotlib, Jupyter Notebook |
+| [🧠 Automated Theorem Proving](https://github.com/sabrinazhar/automated-theorem-proving) <br>📄[Project Summary (PDF)](link) | Modelled natural language rules using First-Order Logic and verified conclusions using the Prover9 automated theorem prover. | Prover9, First-Order Logic, Automated Reasoning |
 
 ---
 
