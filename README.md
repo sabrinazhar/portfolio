@@ -39,6 +39,7 @@ Welcome! This portfolio showcases my academic and personal projects in software 
 | [🌍 Climate Opinion Analysis & Predictive Modelling](https://github.com/sabrinazhar/climate-opinion-analysis) | Analysed the UNDP People’s Climate Vote dataset using PCA, clustering, and machine learning to identify global patterns in climate attitudes and predict support for climate action. | Python, Pandas, Scikit-learn, PCA, K-Means, Random Forest, Matplotlib |
 | [🎵 Music Store Data Analysis](https://github.com/sabrinazhar/music-store-sql-analysis) | SQL-based project analyzing customer data, sales trends, and performance metrics. | SQL, MySQL |
 | [📚 Pupil Absence Data Analysis](https://github.com/sabrinazhar/pupil-absence) | Data analysis & visualisation of UK pupil absence trends using Python, with cleaned multi-format datasets and high-quality charts. | Python, Pandas, Matplotlib |
+| [🌳 Decision Tree Classification & Model Pruning](https://github.com/sabrinazhar/decision-tree-classifier) | Built a Python pipeline to preprocess data, train decision tree classifiers, and optimise model complexity using cost-complexity pruning while maintaining performance within ±1% accuracy. | Python, NumPy, Pandas, Scikit-learn |
 
 ---
 
